@@ -1,0 +1,8 @@
+test/**
+dist/**
+dev/**
+kong/**
+vers.json
+package-lock.json
+dist/wizrobe.dev.bundle.js
+arcanum.zip
